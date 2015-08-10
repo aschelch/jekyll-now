@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Hi, my name is Aurélien Schelcher. I'm a mobile app development engineer currently working [@UbiTransports](http://www.ubitransport.com). I'm also passonate about web development as well as embedded development on little cardboard like Arduino or Raspberry Pi. Curious by nature, I like to stay up to date with all new stuff coming out every day. I'm a fan of agile methodologies and development principles like SOLID, MVP and other TDD.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+If you want to contact me, you can do it:
+
+ - by mail : aurelien.schelcher (at gmail.com ;))
+ - on Twitter : [@aschelch](http://twitter.com/aschelch)
+ - on Github : [@aschelch](http://github.com/aschelch)
